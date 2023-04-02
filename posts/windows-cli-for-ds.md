@@ -1,5 +1,5 @@
 ---
-title: 'windows-cli-for-ds
+title: 'windows-cli-for-ds'
 author: 'CMM and ChatGPT'
 date: '2023-03-26'
 ---
