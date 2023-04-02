@@ -10,6 +10,7 @@ export default function Layout({ children, pageTitle, description, ...props }) {
         <meta charSet="utf-8" />
         <meta name="Description" content={description}></meta>
         <title>{pageTitle}</title>
+        <link rel="icon" href="/favicon.ico" type="public/favicon" />
       </Head>
       <style jsx global>{`
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;800;900&display=swap');
