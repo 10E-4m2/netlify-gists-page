@@ -1,3 +1,9 @@
+---
+title: 'fictional-minds'
+author: 'CMM and ChatGPT'
+date: '2023-04-01'
+---
+
 #### You:
 Is Alan Palmer's Fictional Minds in your training set?
 
