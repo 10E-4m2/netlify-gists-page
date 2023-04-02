@@ -1,3 +1,10 @@
+---
+title: 'a-unit-of-experience-maybe'
+author: 'CMM and ChatGPT'
+date: '2023-03-26'
+---
+
+
 #### You:
 I want you to act as a deep learning and TOM expert as well as a philosopher and developmental scientist. What are some ideas and methods for exploring the definition of a generalized unit of experiential existence, called the Experion, that can be used to describe the emergence of prosocial, creative, and intelligent behaviors in agents of experience?
 
