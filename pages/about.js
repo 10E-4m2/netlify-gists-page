@@ -21,10 +21,12 @@ const About = ({ title, description, ...props }) => {
             here is a tutorial on how to do so
           </a>
           !
-
-          Lastly, here is the repo for ,{' '}
+        </p>
+        
+        <p> 
+          Lastly, here is the repo for the {' '}
           <a href="https://github.com/10E-4m2/netlify-gists-page/">
-            current site
+            current site.
           </a>
         </p>
 
