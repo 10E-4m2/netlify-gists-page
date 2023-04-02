@@ -1,3 +1,9 @@
+---
+title: 'meeting-of-many-minds'
+author: 'CMM and ChatGPT'
+date: '2023-03-26'
+---
+
 #### You:
 Generate stimulating dialogue between Alfred North Whitehead, Albert Einstein, James Clerk Maxwell, and God.
 
