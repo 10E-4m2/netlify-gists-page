@@ -1,3 +1,10 @@
+---
+title: 'tour-of-ml-software-development'
+author: 'CMM and ChatGPT'
+date: '2023-04-02'
+---
+
+
 #### You:
 I am a data scientist without much experience in formal development or software engineering practices in building, packaging, serving, and monetizing machine learning applications. Can you describe the key ideas, files, tools, and workflows for each of these domains?
 
