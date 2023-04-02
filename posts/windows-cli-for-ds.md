@@ -1,3 +1,10 @@
+---
+title: 'windows-cli-for-ds
+author: 'CMM and ChatGPT'
+date: '2023-03-26'
+---
+
+
 #### You:
 I'm a data scientist with some data engineering experience, but have little expertise using the CLI to execute, log, and coordinate my code and experiments. Write an introductory tutorial with Windows command line examples
 
