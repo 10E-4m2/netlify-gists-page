@@ -1,3 +1,10 @@
+---
+title: 'packaging-python-files'
+author: 'CMM and ChatGPT'
+date: '2023-04-02'
+---
+
+
 #### You:
 Provide a masterclass is packaging Python files for distribution via pip
 
