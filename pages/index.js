@@ -7,21 +7,21 @@ const Index = ({ posts, title, description, ...props }) => {
   return (
     <>
       <Layout pageTitle={title} description={description}>
-        <h1 className="title">Welcome to this demo blog!</h1>
+        <h1 className="title">Content lives here, by myself, ChatGPT, and others where allowed</h1>
 
         <p className="description">
-          This is a simple blog built with Next, easily deployable on{' '}
-          <a href="https://url.netlify.com/r1j6ybSYU">Netlify</a>.
+          This is a simple blog built to house content from conversations with{' '}
+          <a href="https://chat.openai.com">ChatGPT</a>.
         </p>
         <main>
           <PostList posts={posts} />
         </main>
         <p>
           You can look at the repository for this project{' '}
-          <a href="https://github.com/cassidoo/next-netlify-blog-starter">
+          <a href="https://github.com/10E-4m2/netlify-gists-page/">
             here
           </a>
-          , and a tutorial on how to build it {` `}
+          , and a tutorial on how it was originally built {` `}
           <a href="https://url.netlify.com/ByVW0bCF8">here</a>.
         </p>
       </Layout>
